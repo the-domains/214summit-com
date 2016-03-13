@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.8763441
+color:
+  saturation: 0.3546298
+  lightness: 0.5376344
+  brandStrength: 0.4694217
+  brandColors:
+    - '#161616'
+    - '#5C5C5C'
+    - '#888888'
+    - '#E0E0E0'
+    - '#BDBDBD'
+  rhythmicContrast: 0.8512605
+name: 214Summit.com
