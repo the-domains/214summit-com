@@ -1,4 +1,3 @@
-layout_spectrum: 1
 typography_spectrum: 0.8763441
 color:
   saturation: 0.3546298
@@ -11,4 +10,6 @@ color:
     - '#E0E0E0'
     - '#BDBDBD'
   rhythmicContrast: 0.8512605
+layout_spectrum: 1
 name: 214Summit.com
+title: Conceive. Convey. Convert.
